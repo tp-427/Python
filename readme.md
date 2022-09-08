@@ -8,3 +8,6 @@ Add some text and save, then do the following
   2.) Use "git status" to check everything is ready for pushing.
   3.) Use "git commit -m"randomtext"" the Commit needs a message, which is the -m, a second -m can be used for description.
   4.) Use "git push" to send the project to the remote repo where the project is hosted.
+
+  Gonna need to practice this everyday until it feels normal.
+  1.) Can use "git pull" after the initial "git clone <insert https copied from github>"
